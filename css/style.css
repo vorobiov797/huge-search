@@ -1,0 +1,184 @@
+*
+
+{
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border box;
+
+}
+body
+{
+
+background-color: #f1f1f1;
+width:100%;
+max-width:100%;
+max-height: 100%;
+font-family: Tebuchet MC”, Tebuchet, Arial, sans-serif;
+color: #c2c2c2;
+margin:0;
+}
+
+
+.ba-hugesearch-form
+{
+display:block;
+text-align:center;
+margin-top:0;
+
+}
+.ba-input
+{
+	width: 51%;
+	font-size: 13px;
+background: #F1f1f1;
+height: 150px;
+   font-weight: bold;
+   font-size: 100px;
+   color: #c2c2c2;
+    border-collapse: collapse; border: 0px;
+}
+.ba-button-huge-search
+{
+background: #F1F1F1;
+border:none;
+
+}
+.ba-button-huge-search img
+{
+	width:80%;
+	height:80%;
+}
+li
+{
+	display:list-item;
+list-style-type:none;
+
+}
+a
+{
+	text-decoration: none;
+}
+aside
+{
+	display: inline-block;
+	width:30%;
+  vertical-align: top;
+}
+.ba-hs-container
+{
+	max-width: 900px;
+
+margin-left:auto;
+margin-right:auto;
+
+}
+
+.ba-hs-list li
+{
+background: #ebebed;
+
+margin-bottom:3px;
+height:70px;
+
+}
+.ba-hs-list li
+{
+font-size:12px;
+}
+.ba-hs li a
+{
+	color:#adadaf;
+	display:block;
+vertical-align: middle;
+
+height:70px;
+}
+.ba-hs li img
+{
+	display:inline-block;
+	border-radius:50%;
+vertical-align: middle;
+padding:10px;
+}
+.ba-hs-list a h3
+{
+	display: inline-block;
+vertical-align: middle;
+	margin:0 0 0 0;
+
+
+}
+.ba-hs-popular img
+{
+	border-radius:0;
+	vertical-align:middle;
+padding: 10px;
+	display: inline-block;
+}
+.ba-hs-recent img
+{
+border-radius:0;
+	vertical-align:middle;
+	`	padding:10px;
+	display: inline-block;
+
+}
+.
+.ba-hs-popular h3
+{
+
+
+
+vertical-align: middle;
+display: inline-block;
+width: calc(100% - 80px);
+
+
+}
+.ba-hs-recent h3
+{
+margin:0 0 0 0;
+	vertical-align: middle;
+	width: calc(100% - 70px);
+	display: inline-block;
+
+}
+.ba-hs-recent li a
+{
+	color:#adadaf;
+	display:block;
+vertical-align: middle;
+padding: 10px;
+
+
+}
+.ba-hs-popular li a
+{
+	color:#adadaf;
+	display:block;
+vertical-align: middle;
+
+}
+.ba-hs-popular
+{
+margin:0 3% ;
+}
+
+.ba-hs-list
+{
+	font-size:0;
+}
+.ba-hs-list a:hover
+{
+	color:#ec5a62;
+}
+.ba-hs-list li:hover
+{
+	background:rgba(118,117,128,0.1);
+	border-radius:3px;
+}
+.ba-hs-list a h3
+{
+	width: calc(100% - 90px);
+}
